@@ -1,5 +1,13 @@
 # esx_carwash
-esx_carwash is a simple car washing script, with customizable price, and you can add or remove any car wash!
+esx_carwash is a simple car washing script, with customizable price, and you can add or remove any car wash! It's my first working script, and my first ever release, so be nice. Have a great day!
+
+[Contents]
+
+- Contains 2 different car washes.
+- Drive thru, pay the price and enjoy your clean car.
+- If you don't have enough cash, then it will prompt you that you are short on money.
+
+More to be added*
 
 [Installation]
 
